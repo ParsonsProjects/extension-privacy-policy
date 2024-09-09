@@ -1,28 +1,19 @@
-# Extension Privacy Policy
+# Chrome Extensions Privacy Policy
 
-## Intro
+_Effective Date: September 09, 2024_
 
-Different extensions use personal data in different ways. This privacy policy encompasses general principles of how extensions I create collect and handle personal data. Individual extensions, when you first use them, will display their own unique privacy policies and ask you to agree to them before continued use.
+I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of my Google Chrome extension(s).
 
-## Data Collection
+## Information Collection
 
-None of the extensions I write collect any data at all. Since no data is collected, it stands to reason, and is, indeed, the case, that none of your data can be sold to third parties.
+My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or location. Since no data is collected, none of your data is sold to third parties.
 
-That being said, there are a few other ways your data is used.
+## Links to Other Websites
 
-## Chrome Storage API
+My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.
 
-Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it. 
+## Changes to this Privacy Policy
 
-## Changes to the Privacy Policy
+I reserve the right to amend this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy, and the "Effective Date" above will be updated. You are advised to review this Privacy Policy periodically for any changes.
 
-If there are substantive<sup>1</sup> changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
-
-## Feedback
-
-If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:david.heidelberger@gmail.com) or [file an issue](https://github.com/dheidelberger/extension-privacy-policy/issues/new) to this repository.
-
-***
-
-#### Notes:
-1 - When I say "substantive," I mean that I won't push out app updates for minor changes like fixing a typo.
+By using my Google Chrome Extensions, you signify your consent and agreement to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please refrain from using my Google Chrome Extensions.
